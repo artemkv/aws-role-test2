@@ -15,6 +15,7 @@ public class AwsSdkTestApplication {
 
         Region region = Region.US_WEST_2;
         S3Client s3 = S3Client.builder()
+            // https://docs.aws.amazon.com/sdk-for-java/v2/developer-guide/java-dg-roles.html
             .credentialsProvider(InstanceProfileCredentialsProvider.builder().build())
             .region(region)
             .build();
