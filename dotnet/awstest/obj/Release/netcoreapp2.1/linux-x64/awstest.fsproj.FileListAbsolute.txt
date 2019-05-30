@@ -1,0 +1,13 @@
+d:\temp\aws_playground\aws-sdk-examples\dotnet\awstest\bin\Release\netcoreapp2.1\linux-x64\libhostpolicy.so
+d:\temp\aws_playground\aws-sdk-examples\dotnet\awstest\bin\Release\netcoreapp2.1\linux-x64\libhostfxr.so
+d:\temp\aws_playground\aws-sdk-examples\dotnet\awstest\bin\Release\netcoreapp2.1\linux-x64\awstest
+d:\temp\aws_playground\aws-sdk-examples\dotnet\awstest\bin\Release\netcoreapp2.1\linux-x64\awstest.deps.json
+d:\temp\aws_playground\aws-sdk-examples\dotnet\awstest\bin\Release\netcoreapp2.1\linux-x64\awstest.runtimeconfig.json
+d:\temp\aws_playground\aws-sdk-examples\dotnet\awstest\bin\Release\netcoreapp2.1\linux-x64\awstest.runtimeconfig.dev.json
+d:\temp\aws_playground\aws-sdk-examples\dotnet\awstest\bin\Release\netcoreapp2.1\linux-x64\awstest.dll
+d:\temp\aws_playground\aws-sdk-examples\dotnet\awstest\bin\Release\netcoreapp2.1\linux-x64\awstest.pdb
+d:\temp\aws_playground\aws-sdk-examples\dotnet\awstest\obj\Release\netcoreapp2.1\linux-x64\awstest.fsprojAssemblyReference.cache
+d:\temp\aws_playground\aws-sdk-examples\dotnet\awstest\obj\Release\netcoreapp2.1\linux-x64\awstest.AssemblyInfoInputs.cache
+d:\temp\aws_playground\aws-sdk-examples\dotnet\awstest\obj\Release\netcoreapp2.1\linux-x64\awstest.AssemblyInfo.fs
+d:\temp\aws_playground\aws-sdk-examples\dotnet\awstest\obj\Release\netcoreapp2.1\linux-x64\awstest.dll
+d:\temp\aws_playground\aws-sdk-examples\dotnet\awstest\obj\Release\netcoreapp2.1\linux-x64\awstest.pdb

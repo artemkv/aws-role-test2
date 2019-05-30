@@ -1,0 +1,13 @@
+{
+  "name": "test-aws-sdk",
+  "version": "1.0.0",
+  "description": "Test AWS SDK",
+  "main": "app.js",
+  "author": {
+    "name": "artemkv",
+    "email": "artemkv@gmail.com"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.466.0"
+  }
+}

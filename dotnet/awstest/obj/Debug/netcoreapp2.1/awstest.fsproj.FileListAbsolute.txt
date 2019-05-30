@@ -1,0 +1,10 @@
+D:\temp\aws_playground\aws-sdk-examples\dotnet\awstest\bin\Debug\netcoreapp2.1\awstest.deps.json
+D:\temp\aws_playground\aws-sdk-examples\dotnet\awstest\bin\Debug\netcoreapp2.1\awstest.runtimeconfig.json
+D:\temp\aws_playground\aws-sdk-examples\dotnet\awstest\bin\Debug\netcoreapp2.1\awstest.runtimeconfig.dev.json
+D:\temp\aws_playground\aws-sdk-examples\dotnet\awstest\bin\Debug\netcoreapp2.1\awstest.dll
+D:\temp\aws_playground\aws-sdk-examples\dotnet\awstest\obj\Debug\netcoreapp2.1\awstest.AssemblyInfoInputs.cache
+D:\temp\aws_playground\aws-sdk-examples\dotnet\awstest\obj\Debug\netcoreapp2.1\awstest.AssemblyInfo.fs
+D:\temp\aws_playground\aws-sdk-examples\dotnet\awstest\bin\Debug\netcoreapp2.1\awstest.pdb
+D:\temp\aws_playground\aws-sdk-examples\dotnet\awstest\obj\Debug\netcoreapp2.1\awstest.dll
+D:\temp\aws_playground\aws-sdk-examples\dotnet\awstest\obj\Debug\netcoreapp2.1\awstest.pdb
+D:\temp\aws_playground\aws-sdk-examples\dotnet\awstest\obj\Debug\netcoreapp2.1\awstest.fsprojAssemblyReference.cache
